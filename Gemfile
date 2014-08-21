@@ -32,6 +32,8 @@ gem 'draper', '~> 1.3.1'
 
 gem 'coffee-rails', '~> 4.0.0'
 
+# Facebook gems
+gem 'omniauth-facebook', '~> 2.0.0'
 gem 'koala', '~> 1.10.0rc'
 
 # bundle exec rake doc:rails generates the API under doc/api.
